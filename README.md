@@ -146,8 +146,8 @@ python predict.py
 Example Output
 
 ```
-Prediction : Dog
-Confidence : 99.82%
+Prediction : Cat
+Confidence : 98.78%
 ```
 
 ---
