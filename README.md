@@ -1,5 +1,16 @@
 # 🐱🐶 Professional Image Classification using PyTorch
 
+## Portfolio overview
+
+[Portfolio](https://github.com/ajmal335) · [Training code](train.py) · [Evaluation code](evaluate.py)
+
+![Example image classification](outputs/prediction.png)
+
+The accuracy below is the project's existing reported result; it has not been independently reproduced in this update. Dataset files and trained checkpoints are not included. Review `prepare_dataset.py` and `src/config.py`, obtain the dataset, and train before prediction.
+
+---
+
+
 A complete end-to-end deep learning image classification project built with **PyTorch** using **Transfer Learning (ResNet18)**.
 
 This project demonstrates a professional image classification pipeline including data loading, training, validation, evaluation, prediction, visualization, and checkpoint management.
@@ -189,7 +200,8 @@ python confusion_matrix.py
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ajmal335/Professional_Image_Classification.git
+cd Professional_Image_Classification
 ```
 
 Install dependencies
@@ -233,3 +245,4 @@ Focused on:
 - AI Applications
 
 ---
+
